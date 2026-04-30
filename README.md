@@ -99,6 +99,3 @@ Admin --> Operational : manages
 ## Project Structure
 - `src/` - Source code for the application (implementation details may vary).
 
-## Status
-This README is derived from the class diagram. If you add implementation details (languages, build steps, or tests), this file can be expanded with concrete setup and usage instructions.
-
