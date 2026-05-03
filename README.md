@@ -96,6 +96,14 @@ Admin --> Operational : manages
 3. A car is rented to a customer for a number of days.
 4. The rental is tracked, and the car is returned and made available again.
 
+## How to Run
+This project currently uses plain Java classes with a small demo in `Main`.
+
+```bash
+javac src/*.java
+java -cp src Main
+```
+
 ## Project Structure
 - `src/` - Source code for the application (implementation details may vary).
 
